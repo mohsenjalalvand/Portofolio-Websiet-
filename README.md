@@ -1,2 +1,2 @@
-# Portofolio-Websiet-
+# Portofolio-Website-
 Portfolio project developed with js   
